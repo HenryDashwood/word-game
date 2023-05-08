@@ -1,6 +1,6 @@
 # Word Game
 
-Play it [here](word-game-pg04dz1uo-henrydashwood.vercel.app)!
+Play it [here](https://word-game-git-main-henrydashwood.vercel.app/)!
 
 ## Development
 
